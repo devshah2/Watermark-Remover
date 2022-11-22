@@ -136,7 +136,7 @@ numpydoc==0.9.1
 oandapy==0.0.9
 oandapyV20==0.6.3
 olefile==0.46
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 openpyxl==2.6.2
 packaging==19.0
 pandas==0.24.2
