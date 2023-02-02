@@ -250,7 +250,7 @@ urllib3==1.24.2
 virtualenv==16.7.5
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.15.4
+Werkzeug==0.15.5
 widgetsnbextension==3.5.0
 wolframalpha==3.0.1
 wrapt==1.11.2
